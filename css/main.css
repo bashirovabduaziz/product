@@ -348,3 +348,18 @@ left: 476px;
     background-color: aliceblue;
     color: #02897A;
 }
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: #22343D;
+    color: white;
+  }
+.dark-mode{
+    background-color: #173A56;
+    color: white;
+}
