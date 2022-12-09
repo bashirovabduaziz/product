@@ -265,3 +265,86 @@ border: none;
 h1{
     margin-top: 10px;
 }
+.pro2{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    
+}
+.pro-p5{
+    width: 406px;
+    height: 78px;
+}
+.pro-p6{
+    width: 408px;
+    height: 52px;
+}
+.pro-right2{
+    margin-left: 50px;
+}
+.pricing{
+    width: 1200px;
+    margin:  0 auto;
+    padding: 0 auto;
+    position: relative;
+    margin-top: 1500px;
+ }
+.h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+text-align: center;
+color: #22343D;
+}
+.pri-text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #22343D;
+width: 540px;
+position: absolute;
+top: 70px;
+left: 350px;
+}
+.pri-hero{
+    position: absolute;
+    top: 200px;
+    flex-wrap: wrap;
+}
+.r{
+    margin-left: 140px;
+}
+.pri-asist{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.a{
+    margin-left: 120px;
+}
+.pri-btn{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+background: #02897A;
+border-radius: 4px;
+border: none;
+width: 216px;
+height: 53px;
+position: absolute;
+top: 500px;
+left: 476px;
+}
+.pri-btn:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    background-color: aliceblue;
+    color: #02897A;
+}
